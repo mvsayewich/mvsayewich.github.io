@@ -2,7 +2,11 @@ h1 {
 display: block;
 font-size: 3em;
 border: 2px solid;
-border-color: crimson;">
+border-color: crimson;
+}
+
+p2 {
+font-size: 1em;
 }
 
 table, tr {
