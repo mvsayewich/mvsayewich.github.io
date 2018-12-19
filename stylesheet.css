@@ -20,3 +20,10 @@ table, tr {
   margin-left: auto;
   margin-right: auto;
 }
+
+.centertxt {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%
+}
