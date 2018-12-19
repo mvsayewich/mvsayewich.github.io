@@ -1,0 +1,12 @@
+h1 {
+display: block;
+font-size: 3em;
+border: 2px solid;
+border-color: crimson;">
+}
+
+table, th {
+  border: 1px solid black;
+  width: 100%; 
+  background-image: linear-gradient(to bottom right, red, yellow)
+}
