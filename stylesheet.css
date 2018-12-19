@@ -1,5 +1,5 @@
 h1 {
-position: center;
+position: absolute;
 display: inline;
 font-size: 3em;
 border: 2px solid;
